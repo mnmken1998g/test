@@ -3,3 +3,5 @@
 # fontawesome pencil-ruler icon add
 # fontawesome share icon add
 # WebSite Introduction add
+# jumbotron background color add(e9ecef)
+# anthropophobia test & badge add
