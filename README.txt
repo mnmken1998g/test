@@ -6,3 +6,5 @@
 # jumbotron background color add(e9ecef)
 # anthropophobia test & badge add
 # brainside test add
+# Reaction test location error fix
+# Reaction test add
